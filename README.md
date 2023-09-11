@@ -1,1 +1,1 @@
-"# CodeReviews.SQL.SettingCriteriaUsingWhereClause" 
+Instructions to install the training database are the same as in the "Simple Queries" project and can be found here: https://github.com/TheCSharpAcademy/CodeReviews.SQL.SimpleQueries/blob/main/README.md
