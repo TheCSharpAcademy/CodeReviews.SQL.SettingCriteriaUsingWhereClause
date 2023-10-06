@@ -14,7 +14,7 @@ where EventName like '%Teletubbies%' or EventName  like '%Pandy%'
 -- Create a query to list out all of the events which took place in February 2005.
 select  *
 from dbo.tblEvent 
-where EventDate like '%-02-%'
+where EventDate like '%2005-02-%'
 
 -- Create a query to show a list of all events which might have something to do with water. ONE OR MORE of the following is true: 
 -- events that take place in one of the island countries (8, 22, 30 and 35, corresponding to Japan, the Marshall Islands, Cuba and Sri Lanka respectively); 
